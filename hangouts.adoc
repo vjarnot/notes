@@ -3,8 +3,26 @@
 ↑↑↓↓←→←→ba:: Changes background to nature scene
 /8ball:: Produces random "Magic 8-Ball" style answers
 /bikeshed:: Changes chat background color
+/corgies:: Corgies, what else?
+/dealwithit::
+ ( •_•)
+ ( •_•)>⌐■-■
+ (⌐■_■)
 /disapprove:: ಠ_ಠ
+/facepalm:: (－‸ლ)
 /idk:: ¯\(°_o)/¯
+/lgtm:: 👍 👍 👍
 /lit:: 🔥🔥🔥
-/me [action] :: e.g., /me has left the chat -> Username has left the chat)
+/me [action] :: e.g., /me has left the chat -> Username has left the chat
+/pitchforks:: Angry mob, what else?
+/pitchforkstream:: More angry mob
+/ponies:: Ponies, what else?
+/ponystream:: More ponies
+/puppyparty:: Puppies, what else?
+/roll:: Roll dice. # of dice and # of sides can be specified: /roll 3d20
 /shrug:: ¯\\_(ツ)_/¯
+/shydino:: A shy dinosaur
+/success:: (•̀ᴗ•́)و ̑̑
+/tableflip:: (╯°□°)╯︵ ┻━┻
+/wizard:: (∩ ` -´)⊃━━☆ﾟ.*･｡ﾟ
+/yuno:: ლ(ಠ益ಠლ)
