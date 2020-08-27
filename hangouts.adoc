@@ -1,0 +1,10 @@
+= Google Hangouts Easter Eggs
+
+↑↑↓↓←→←→ba:: Changes background to nature scene
+/8ball:: Produces random "Magic 8-Ball" style answers
+/bikeshed:: Changes chat background color
+/disapprove:: ಠ_ಠ
+/idk:: ¯\(°_o)/¯
+/lit:: 🔥🔥🔥
+/me [action] :: e.g., /me has left the chat -> Username has left the chat)
+/shrug:: ¯\\_(ツ)_/¯
