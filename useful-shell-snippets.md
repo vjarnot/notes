@@ -1,2 +1,5 @@
-### rsync (copy) files in parallel (2 threads here) with progress bar:
+### rsync files in parallel (2 threads here) with progress bar NB: careful with nested directories, it's possible to tell rsync to copy both the parent and child directories, which is no bueno, since rsync traverses down on its own:
     find ./src -mindepth 1 -type d | xargs -d "\n" -P2 -I% rsync -Pah % ./dest
+
+### rsync perms fix for TrueNAS:
+    rsync -Pah --no-perms test/2023-02-17/Videos/ /mnt/puddle/media/Videos
