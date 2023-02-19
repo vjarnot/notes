@@ -2,4 +2,4 @@
     find ./src -mindepth 1 -type d | xargs -d "\n" -P2 -I% rsync -Pah % ./dest
 
 ### rsync perms fix for TrueNAS:
-    rsync -Pah --no-perms test/2023-02-17/Videos/ /mnt/puddle/media/Videos
+    rsync -Pah --no-perms src/ dest
