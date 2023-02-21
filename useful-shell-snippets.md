@@ -3,3 +3,6 @@
 
 ### rsync perms fix for TrueNAS:
     rsync -Pah --no-perms src/ dest
+
+### 7-Zip extract, but skip certain file extensions (\*.json in this example):
+    7z x '-xr!*.json' .\src.zip -o/dest-folder
