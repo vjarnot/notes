@@ -6,3 +6,7 @@
 
 ### 7-Zip extract, but skip certain file extensions (\*.json in this example):
     7z x '-xr!*.json' .\src.zip -o/dest-folder
+
+### TrueNAS SCALE HBA temps:
+    storcli show all
+    storcli /c0 show all |grep temp
