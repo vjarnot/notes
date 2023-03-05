@@ -10,3 +10,6 @@
 ### TrueNAS SCALE HBA temps:
     storcli show all
     storcli /c0 show all |grep temp
+
+### iperf3 client command (60 seconds, 4 threads):
+    iperf3 -c 10.x.x.x --bidir -t 60 -P 4
